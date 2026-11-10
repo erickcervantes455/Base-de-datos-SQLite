@@ -1,0 +1,24 @@
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\Base de datos SQLite.exe
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\Base de datos SQLite.deps.json
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\Base de datos SQLite.runtimeconfig.json
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\Base de datos SQLite.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\Base de datos SQLite.pdb
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\System.Data.SQLite.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\bin\Debug\net10.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.csproj.AssemblyReference.cache
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base_de_datos_SQLite.Form1.resources
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.csproj.GenerateResource.cache
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.AssemblyInfoInputs.cache
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.AssemblyInfo.cs
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.csproj.CoreCompileInputs.cache
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.sourcelink.json
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de .EFEA32E4.Up2Date
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\refint\Base de datos SQLite.dll
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.pdb
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\Base de datos SQLite.genruntimeconfig.cache
+C:\repos\Base-de-datos-SQLite\Base de datos SQLite\obj\Debug\net10.0-windows\ref\Base de datos SQLite.dll
